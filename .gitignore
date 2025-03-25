@@ -52,4 +52,10 @@ out/
 ### Папка для скриншотов ###
 /target/screenshots/
 
-
+target/
+.idea/
+*.iml
+*.log
+*.tmp
+*.png
+.DS_Store

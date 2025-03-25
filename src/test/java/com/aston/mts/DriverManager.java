@@ -15,10 +15,7 @@ public class DriverManager {
             WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
             driver.manage().window().maximize();
-        } catch (Exception e) {
-            throw new RuntimeException("Ошибка инициализации WebDriver: " + e.getMessage());
         }
-    }
         return driver;
     }
 
