@@ -25,11 +25,7 @@
             <artifactId>selenium-remote-driver</artifactId>
             <version>4.14.1</version>
         </dependency>
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-devtools-v134</artifactId>
-            <version>4.14.1</version>
-        </dependency>
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>

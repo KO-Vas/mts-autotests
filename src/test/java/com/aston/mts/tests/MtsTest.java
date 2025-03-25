@@ -1,7 +1,8 @@
-package com.aston.mts;
+package com.aston.mts.tests;
 
+import com.aston.mts.DriverManager;
 import org.openqa.selenium.logging.LogType;
-import org.openqa.selenium.logging.LogEntries;
+
 import java.util.logging.Level;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
